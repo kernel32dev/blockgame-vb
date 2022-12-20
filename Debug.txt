@@ -1,0 +1,21 @@
+Time       = 326,3912ms
+TickChunks = 0,3199ms
+Rendering  = 0,8713ms
+DoEvents   = 146,9978ms
+
+TickTime   = 148,2089ms
+
+Time       = 1456,011ms
+TickChunks = 0,0011ms
+Rendering  = 3,1155ms
+DoEvents   = 0,004ms
+
+TickTime   = 3,1226ms
+
+Time       = 2722,9842ms
+TickChunks = 0,0011ms
+Rendering  = 4,6599ms
+DoEvents   = 0,0039ms
+
+TickTime   = 4,6668ms
+
